@@ -1,0 +1,29 @@
+[
+  {
+    "id": "initial-1",
+    "type": "interpreter",
+    "name": "Elena Petrova",
+    "city": "Moscow",
+    "shortDescription": "Expert English-Russian interpreter for tech expos.",
+    "description": "Over 10 years of experience in IT and engineering exhibitions.",
+    "languages": "English, Russian",
+    "contactEmail": "elena@example.com",
+    "website": "https://elena-interprets.ru",
+    "imageUrl": "https://picsum.photos/seed/interpreter1/400/300",
+    "approved": true,
+    "createdAt": "2026-02-26T09:00:00Z"
+  },
+  {
+    "id": "initial-2",
+    "type": "stand_builder",
+    "name": "ExpoDesign Pro",
+    "city": "Moscow",
+    "shortDescription": "Creative stand design and high-quality construction.",
+    "description": "Full-cycle stand building services from concept to dismantling.",
+    "contactEmail": "info@expodesign.ru",
+    "website": "https://expodesign.ru",
+    "imageUrl": "https://picsum.photos/seed/stand1/400/300",
+    "approved": true,
+    "createdAt": "2026-02-26T09:00:00Z"
+  }
+]
